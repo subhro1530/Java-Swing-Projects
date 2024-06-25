@@ -1,6 +1,3 @@
-Sure! Below is a template for a README file that you can customize and use for your GitHub repository containing your Java development projects and learning materials, including Swing.
-
----
 
 # Java Development Projects and Learning Resources
 
@@ -89,6 +86,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 If you have any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
 
----
-
-Feel free to customize this template with your specific details, project names, features, and directories.

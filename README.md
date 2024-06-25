@@ -49,7 +49,7 @@ To run any of the projects, you need to have Java installed on your machine. You
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/java-development.git
+git clone https://github.com/subhro1530/Java-Swing-Projects.git
 ```
 
 2. Navigate to the project directory:
